@@ -1,5 +1,21 @@
 # 💫 About Me:
-I'm currently working at Nurture Farm Agtech Pvt. Ltd. as a GIS Engineer in the ML-GIS Department<br>I'm looking to collaborate on Geospatial Data Science, AI, ML, and Data Science<br>I’m looking for help with Scaling Geospatial AI solutions and optimizing deployments within Kubernetes environments for high-performance cloud processing.<br>I’m currently learning to integrate Generative AI tools into GIS workflows to automate complex spatial analysis and improve data accessibility for the community.<br>Ask me about Anything related to Remote Sensing, Python for GIS, QGIS plugin development, or the best ways to handle multi-band satellite data stacking and mosaicking.<br>Fun fact: I have developed over 40 repositories and numerous popular QGIS plugins, including tools that simplify tasks like finding the right Coordinate Reference System or cleaning null geometries for new users.<br>
+#### 🌍 What I Do
+I build tools at the intersection of **Geospatial Technology, ML, and Data Science** — turning satellite imagery into actionable insights and open-source solutions the community can actually use.
+
+#### 🔭 Currently Working On
+Integrating **Generative AI into GIS workflows** to automate complex spatial analysis and make geospatial data more accessible to everyone.
+
+#### 🌱 Currently Learning
+Advanced **Geospatial AI** pipelines — combining LLMs, satellite data, and cloud-native tools to push what's possible in remote sensing.
+
+#### 🤝 Looking to Collaborate On
+Geospatial Data Science · AI/ML for Earth Observation · QGIS Plugin Development · Open Geodata Tooling
+
+#### 💬 Ask Me About
+Remote Sensing · Python for GIS · QGIS Plugin Development · Multi-band Satellite Data Stacking & Mosaicking · STAC APIs · Google Earth Engine
+
+#### ⚡ Fun Fact
+I've published **15+ QGIS plugins**, **4 PyPI packages**, and **40+ repositories** — from intelligent CRS finders and null geometry cleaners to full satellite imagery download pipelines. If it's a GIS pain point, I've probably built a tool for it.
 
 
 ## 🌐 Socials:
